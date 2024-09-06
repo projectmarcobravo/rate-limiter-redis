@@ -15,7 +15,7 @@ This project is an API built with Express and Redis that implements rate limitin
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your_username/your_outvio-test-backend.git
+   git clone https://github.com/your_username/rate-limiter-redis.git
    cd outvio-test-backend
    ```
 
